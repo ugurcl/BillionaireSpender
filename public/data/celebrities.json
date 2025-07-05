@@ -1,0 +1,87 @@
+[
+    {
+        "id": "elon_musk",
+        "name": "Elon Musk",
+        "image": "https://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959",
+        "wealth": 405200000000
+    },
+    {
+        "id": "larry_ellison",
+        "name": "Larry Ellison",
+        "image": "https://specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+        "wealth": 282200000000
+    },
+    {
+        "id": "mark_zuckerberg",
+        "name": "Mark Zuckerberg",
+        "image": "https://specials-images.forbesimg.com/imageserve/5c76b7d331358e35dd2773a9/416x416.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401",
+        "wealth":  248100000000 
+    },
+    {
+        "id": "jeff_bezos",
+        "name": "Jeff Bezos",
+        "image": "https://specials-images.forbesimg.com/imageserve/67531eb2b5f7c9e191f632d7/416x416.jpg?background=000000&cropX1=316&cropX2=1027&cropY1=125&cropY2=838",
+        "wealth": 236800000000
+    },
+     {
+        "id": "larry_page",
+        "name": "Larry Page",
+        "image": "https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
+        "wealth":  148400000000 
+    },
+    {
+        "id": "bernard_arnault",
+        "name": "Bernard Arnault",
+        "image": "https://specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+        "wealth":   148100000000 
+    },
+    {
+        "id": "warren_buffett",
+        "name": "Warren Buffett",
+        "image": "https://specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+        "wealth":   145300000000 
+    },
+     {
+        "id": "serget_brin",
+        "name": "Sergey Brin",
+        "image": "https://specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
+        "wealth":   141800000000  
+    },
+    {
+        "id": "steve_ballmer",
+        "name": "Steve Ballmer",
+        "image": "https://specials-images.forbesimg.com/imageserve/59d50c47a7ea436b47b36d66/416x416.jpg?background=000000&cropX1=553&cropX2=2940&cropY1=322&cropY2=2708",
+        "wealth":   141600000000   
+    },
+     {
+        "id": "jensen_huang",
+        "name": "Jensen Huang",
+        "image": "https://specials-images.forbesimg.com/imageserve/5bc505a331358e59f57abeb9/416x416.jpg?background=000000&cropX1=553&cropX2=3255&cropY1=212&cropY2=2912",
+        "wealth":   138800000000    
+    },
+     {
+        "id": "cristiano_ronaldo",
+        "name": "Cristiano Ronaldo",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/645ea1c4fce09061884bd21c/0x0.jpg?format=jpg&crop=2774,2772,x925,y0,safe&height=416&width=416&fit=bounds",
+        "wealth":   275000000    
+    },
+    {
+        "id": "lionel_messi",
+        "name": "Lionel Messi",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/663e595b4509f97fdafb95f5/0x0.jpg?format=jpg&crop=383,383,x1045,y23,safe&height=416&width=416&fit=bounds",
+        "wealth": 135000000    
+    },
+    {
+        "id": "donald_trump",
+        "name": "Donald Trump",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5638e53de4b0ffa7afe6a26a/0x0.jpg?format=jpg&crop=704,704,x27,y32,safe&height=416&width=416&fit=bounds",
+        "wealth": 5300000000    
+    },
+    {
+        "id": "vatandas",
+        "name": "Sıradan Vatandaş",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png",
+        "wealth": 553    
+    }
+   
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "price": 1200,
+        "image": "../images/iphone15.webp"
+    },
+    {
+        "id": 2,
+        "name": "Tesla Model S",
+        "price": 90000,
+        "image": "../images/teslamodels.png"
+    },
+    {
+        "id": 3,
+        "name": "Rolex Submariner",
+        "price": 15000,
+        "image": "../images/rolexsubmariner.avif"
+    },
+    {
+        "id": 4,
+        "name": "Özel Jet",
+        "price": 45000000,
+        "image": "../images/jet.png"
+    },
+    {
+        "id": 5,
+        "name": "Yat",
+        "price": 75000000,
+        "image": "../images/yat.png"
+    },
+    {
+        "id": 6,
+        "name": "MacBook Pro 16\"",
+        "price": 3500,
+        "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111901_mbp16-gray.png"
+    },
+    {
+        "id": 7,
+        "name": "Apple Vision Pro",
+        "price": 3500,
+        "image": "https://png.pngtree.com/png-clipart/20230613/ourmid/pngtree-apple-vision-pro-2-png-image_7134825.png"
+    },
+    {
+        "id": 8,
+        "name": "Gaming PC",
+        "price": 5000,
+        "image": "https://freepngimg.com/thumb/computer/32745-9-gaming-computer-transparent.png"
+    },
+    {
+        "id": 9,
+        "name": "Luxury Watch",
+        "price": 80000,
+        "image": "../images/watch-luxury.png"
+    },
+    {
+        "id": 10,
+        "name": "Penthouse Apartment",
+        "price": 22000000,
+        "image": "../images/house.png"
+    },
+    {
+        "id": 11,
+        "name": "AirPods Pro",
+        "price": 250,
+        "image": "../images/airpods.png"
+    },
+    {
+        "id": 12,
+        "name": "Smart TV 75\"",
+        "price": 1800,
+        "image": "../images/tv.png"
+    },
+    {
+        "id": 13,
+        "name": "Electric Scooter",
+        "price": 700,
+        "image": "/images/scooter.png"
+    },
+    {
+        "id": 14,
+        "name": "Electric Bike",
+        "price": 1800,
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/049/409/923/small/modern-electric-bike-with-battery-pack-isolated-on-transparent-file-png.png"
+    },
+    {
+        "id": 15,
+        "name": "Harley Davidson",
+        "price": 35000,
+        "image": "https://pngimg.com/d/harley_davidson_PNG50.png"
+    },
+    {
+        "id": 16,
+        "name": "Mercedes-Benz S-Class",
+        "price": 120000,
+        "image": "https://purepng.com/public/uploads/large/51506279779c6rntanvyoznezpyppnhohayyxtzb1fw4pyobj8vrqyxl5jgyo0x8wqtg9rcqmi0ddeo5f0xplr20eua2fmf3maooz8epuincm94.png"
+    },
+    {
+        "id": 17,
+        "name": "Private Island",
+        "price": 320000000,
+        "image": "https://png.pngtree.com/png-vector/20240621/ourmid/pngtree-serene-tropical-island-landscape-png-image_12618927.png"
+    },
+    {
+        "id": 18,
+        "name": "Diamond Ring",
+        "price": 250000,
+        "image": "../images/diamond.png"
+    },
+    {
+        "id": 19,
+        "name": "Gucci Ayakkabı",
+        "price": 1200,
+        "image": "https://www.pngkey.com/png/full/70-703874_gucci-shoes-for-women-png-image-with-transparent.png"
+    },
+    {
+        "id": 20,
+        "name": "LV Çanta",
+        "price": 3500,
+        "image": "../images/lv.png"
+    },
+    {
+        "id": 21,
+        "name": "Helikopter",
+        "price": 17000000,
+        "image": "https://www.freeiconspng.com/uploads/helicopter-png-25.png"
+    },
+    {
+        "id": 22,
+        "name": "Düğün Organizasyonu",
+        "price": 50000,
+        "image": "https://wp.oggusto.com/wp-content/uploads/2024/10/pexels-mastercowley-1128783.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Uçan Araba",
+        "price": 600000,
+        "image": "https://png.pngtree.com/thumb_back/fh260/background/20230524/pngtree-futuristic-red-flying-car-image_2609869.jpg"
+    },
+    {
+        "id": 24,
+        "name": "NFT Sanatı",
+        "price": 200000,
+        "image": "https://ivasanat.com/blog/wp-content/uploads/2025/04/nft1.1-1.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Starbucks Latte",
+        "price": 6,
+        "image": "https://www.starbuckschilledcoffee.com/4aee53/globalassets/evo/our-products/chilled-classics/chilled-cup/1_cc_caffelatte_r.png?width=480&height=600&rmode=max&format=webp"
+    },
+    {
+        "id": 26,
+        "name": "Netflix Aylık",
+        "price": 20,
+        "image": "https://gazete.firat.edu.tr/wp-content/uploads/2021/03/netflix.png"
+    },
+    {
+        "id": 27,
+        "name": "İş Jeti Kiralama (günlük)",
+        "price": 15000,
+        "image": "https://jetsplore.com/wp-content/uploads/2021/04/jetsplore-ozel-jet-servis-1024x576.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Futbol Kulübü",
+        "price": 500000000,
+        "image": "https://derneknedir.com/wp-content/uploads/2021/08/Futbol-Kulubu-Kurmak.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Altın Kolye",
+        "price": 8000,
+        "image": "https://www.bilezikci.com/shop/zr/36/myassets/products/046/hint-isi-kalp-22-ayar-altin-kolye-36-gr-245218.jpg?revision=1747072720"
+    },
+    {
+        "id": 30,
+        "name": "Lüks Rezidans",
+        "price": 1700000,
+        "image": "https://www.idealrealestate.com.tr/cfg/idealalanya.com/public/_lib/img/uploaded/Property-for-sale-in-Istanbul-Apartments-for-sale-in-Istanbul-Luxury-Residance-for-sale-in-Istanbul-Zeytinburnu-Properties-for-sale-Istanbul-Turkey-----------3_1.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Samsung Galaxy S24",
+        "price": 1100,
+        "image": "https://m.media-amazon.com/images/I/61gyimiqfGL.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Canon Profesyonel Kamera",
+        "price": 4000,
+        "image": "https://productimages.hepsiburada.net/s/7/375-375/8914083512370.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Boeing 747",
+        "price": 418000000,
+        "image": "https://aircharterservice-globalcontent-live.cphostaccess.com/images/turkey/group/63230_boeing-747-400-large_tcm119-3689.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Özel Okul Yıllık",
+        "price": 40000,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Phil-Mont_Christian_Academy%2C_the_former_Springfield_Township_Senior_High_School.jpg/1200px-Phil-Mont_Christian_Academy%2C_the_former_Springfield_Township_Senior_High_School.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Hediye Kartı",
+        "price": 100,
+        "image": "https://media.istockphoto.com/id/1361203739/tr/vekt%C3%B6r/gift-card-icon-in-flat-style-discount-coupon-vector-illustration-on-isolated-background.jpg?s=612x612&w=0&k=20&c=vaLAXTwywX9xem9AI6r0ttnC_o5cEgSBC6Gr7sfbQv8="
+    },
+    {
+        "id": 36,
+        "name": "Mona Lisa Tablosu",
+        "price": 860000000,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Ferrari SF90",
+        "price": 550000,
+        "image": "https://cdn.motor1.com/images/mgl/qkk7zv/s1/novitec-ferrari-sf90-stradale-2022.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Drone DJI",
+        "price": 2200,
+        "image": "https://m.media-amazon.com/images/I/61wBEuKA8rL.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Özel Şef",
+        "price": 150000,
+        "image": "https://forbesprivatestaff.com/wp-content/uploads/2022/10/Forbes-Private-Satff-Private-Chef-Best.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Yıllık Tatil Paketi",
+        "price": 25000,
+        "image": "https://indigodergisi.com/wp-content/uploads/2022/06/tatil.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Köşk",
+        "price": 5000000,
+        "image": "https://image.milimaj.com/i/milliyet/75/869x477/62e8eb3f86b24a1d54516583.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Bitcoin",
+        "price": 62000,
+        "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/c5a1/live/a6b6d9d0-d7f3-11ee-8f28-259790e80bba.jpg.webp"
+    },
+    {
+        "id": 43,
+        "name": "Meta Quest 3",
+        "price": 500,
+        "image": "https://sm.pcmag.com/pcmag_uk/comparison/m/meta-quest/meta-quest-3-vs-meta-quest-3s-whats-the-difference_xjv7.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Futbol Topu",
+        "price": 60,
+        "image": "https://contents.mediadecathlon.com/p2744680/k$1fb558050f0537f01c2c4685c76b95a9/sq/futbol-topu-uefa-avrupa-ligi-resmi-mac-topu-24-25-kutulu.jpg?format=auto&f=800x0"
+    },
+    {
+        "id": 45,
+        "name": "Yüzme Havuzu",
+        "price": 40000,
+        "image": "https://malatya.gsb.gov.tr/Public/Images/IM/Malatya/01204/dsc_8105-buyuk_1.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Altın Kaplama Tuvalet",
+        "price": 1200000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxX_Z0mmJJgt9vSXUkBX08lkTFXys20obZ6g&s"
+    },
+    {
+        "id": 47,
+        "name": "Airbnb Malikanesi (1 Hafta)",
+        "price": 10000,
+        "image": "https://imgs.alem.com.tr/resize/792x446/Documents/Alem_Dergi/images/2023/07/03/barbie-mailkanesi-airbnbd-463.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Uzay Turu",
+        "price": 2500000,
+        "image": "https://www.bizsiziz.com/wp-content/uploads/2017/02/15-dakikalik-uzay-turu-250-bin-dolar-bizsiziz.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Silicon Valley Startup",
+        "price": 80000000,
+        "image": "https://media.licdn.com/dms/image/v2/C561BAQE1aR00kN5Kbw/company-background_10000/company-background_10000/0/1584758024121/kendi_iim_global__cover?e=2147483647&v=beta&t=zbBsi3fq49UaHrPvaEEZh-juWuxhuJQRMsAgQsrEv0U"
+    },
+    {
+        "id": 50,
+        "name": "NBA Takımı",
+        "price": 2300000000,
+        "image": "https://images.ctfassets.net/h8q6lxmb5akt/5qXnOINbPrHKXWa42m6NOa/421ab176b501f5bdae71290a8002545c/nba-logo_2x.png"
+    },
+    {
+        "id": 51,
+        "name": "Erkek Mont",
+        "price": 10,
+        "image": "https://sc04.alicdn.com/kf/H306376fa64b94a71886f002e4ab4c6b4p.png"
+    },
+    {
+        "id": 52,
+        "name": "Mcdonalds Big Mac",
+        "price": 5,
+        "image": "https://w7.pngwing.com/pngs/75/843/png-transparent-mcdonald-s-big-mac-fast-food-hamburger-eating-big-mac-food-cheeseburger-american-food-thumbnail.png"
+    }
+]
